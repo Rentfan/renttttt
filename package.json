@@ -1,0 +1,37 @@
+{
+  "name": "dank-memer",
+  "version": "6.9.4",
+  "droneVersion": "5.hungry.0.53.deorbiting.1525884736.7",
+  "description": "A discord entertainment based bot, with an emphasis on memes.",
+  "main": "memer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dank-memer/Dank-Memer.git"
+  },
+  "keywords": [
+    "discord",
+    "meme",
+    "bot",
+    "melmsie"
+  ],
+  "author": "melmsie",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dank-memer/Dank-Memer/issues"
+  },
+  "homepage": "https://github.com/dank-memer/Dank-Memer#readme",
+  "dependencies": {
+    "asciiart-logo": "^0.1.7",
+    "cheerio": "^1.0.0-rc.2",
+    "eris-sharder": "github:melmsie/eris-sharder#dev",
+    "eslint-config-standard": "^11.0.0",
+    "node-dogstatsd": "0.0.7",
+    "programmatic-repl": "^1.1.4",
+    "rethinkdbdash": "^2.3.31",
+    "snekfetch": "^3.6.4",
+    "standard": "^11.0.1"
+  }
+}
